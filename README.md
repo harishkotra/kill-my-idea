@@ -17,6 +17,10 @@ The goal is short, high-signal arguments and a decisive verdict in seconds.
 4. Moderator outputs scores + verdict + actions.
 5. UI animates responses as a live debate and renders a share card.
 
+<img width="1016" height="720" alt="kill-my-idea" src="https://github.com/user-attachments/assets/cdff9f63-a441-4ddb-9e58-0d6d952c05fa" />
+
+<img width="1659" height="1894" alt="kill-my-idea-1" src="https://github.com/user-attachments/assets/cf25fb35-136a-48b9-b682-7f47511b9bf8" />
+
 ## Tech Stack
 - **Framework:** Next.js 14 (App Router), React 18, TypeScript
 - **Styling/UI:** TailwindCSS, lightweight shadcn-style primitives
