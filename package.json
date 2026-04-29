@@ -1,0 +1,39 @@
+{
+  "name": "kill-my-idea",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Harish Kotra",
+  "description": "Kill My Idea is a web application that helps users evaluate the potential of their startup ideas by providing insights and feedback based on various criteria.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@langchain/openai": "^0.2.11",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.1",
+    "framer-motion": "^11.4.0",
+    "html-to-image": "^1.11.11",
+    "langchain": "^0.2.16",
+    "lucide-react": "^0.462.0",
+    "next": "14.2.16",
+    "openai": "^4.74.0",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "tailwind-merge": "^2.5.5",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/node": "^22.9.0",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^8.57.1",
+    "eslint-config-next": "14.2.16",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.15",
+    "typescript": "^5.6.3"
+  }
+}
